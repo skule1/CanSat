@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "CanSat_Mega_extended", "CanSat_Mega_extended.cppproj", "{3ECF6045-DB29-45BE-94B9-D59C2EBE35AB}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "CanSat_basic_UNO", "..\CanSat_basic_UNO\CanSat_basic_UNO.cppproj", "{129623F5-64AD-45B8-93A7-D7B13F8A7F0C}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "CanSat_basic_UNO_SD", "..\CanSat_basic_UNO_SD\CanSat_basic_UNO_SD.cppproj", "{807EC6A3-1AFE-4DC2-A9F9-A94368D73426}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "satellitt_freertos_mega7", "..\satellitt_freertos_mega7\satellitt_freertos_mega7.cppproj", "{76C8E8DB-4778-4193-8FDE-8E4AFCFBEF77}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "gps_and_rf_to_serial", "..\gps_and_rf_to_serial\gps_and_rf_to_serial.cppproj", "{07B459B4-8D76-4638-BC6D-A459BA2D616B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ECF6045-DB29-45BE-94B9-D59C2EBE35AB}.Debug|AVR.ActiveCfg = Debug|AVR
+		{3ECF6045-DB29-45BE-94B9-D59C2EBE35AB}.Debug|AVR.Build.0 = Debug|AVR
+		{3ECF6045-DB29-45BE-94B9-D59C2EBE35AB}.Release|AVR.ActiveCfg = Release|AVR
+		{3ECF6045-DB29-45BE-94B9-D59C2EBE35AB}.Release|AVR.Build.0 = Release|AVR
+		{129623F5-64AD-45B8-93A7-D7B13F8A7F0C}.Debug|AVR.ActiveCfg = Debug|AVR
+		{129623F5-64AD-45B8-93A7-D7B13F8A7F0C}.Debug|AVR.Build.0 = Debug|AVR
+		{129623F5-64AD-45B8-93A7-D7B13F8A7F0C}.Release|AVR.ActiveCfg = Release|AVR
+		{129623F5-64AD-45B8-93A7-D7B13F8A7F0C}.Release|AVR.Build.0 = Release|AVR
+		{807EC6A3-1AFE-4DC2-A9F9-A94368D73426}.Debug|AVR.ActiveCfg = Debug|AVR
+		{807EC6A3-1AFE-4DC2-A9F9-A94368D73426}.Debug|AVR.Build.0 = Debug|AVR
+		{807EC6A3-1AFE-4DC2-A9F9-A94368D73426}.Release|AVR.ActiveCfg = Release|AVR
+		{807EC6A3-1AFE-4DC2-A9F9-A94368D73426}.Release|AVR.Build.0 = Release|AVR
+		{76C8E8DB-4778-4193-8FDE-8E4AFCFBEF77}.Debug|AVR.ActiveCfg = Debug|AVR
+		{76C8E8DB-4778-4193-8FDE-8E4AFCFBEF77}.Debug|AVR.Build.0 = Debug|AVR
+		{76C8E8DB-4778-4193-8FDE-8E4AFCFBEF77}.Release|AVR.ActiveCfg = Release|AVR
+		{76C8E8DB-4778-4193-8FDE-8E4AFCFBEF77}.Release|AVR.Build.0 = Release|AVR
+		{07B459B4-8D76-4638-BC6D-A459BA2D616B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{07B459B4-8D76-4638-BC6D-A459BA2D616B}.Debug|AVR.Build.0 = Debug|AVR
+		{07B459B4-8D76-4638-BC6D-A459BA2D616B}.Release|AVR.ActiveCfg = Release|AVR
+		{07B459B4-8D76-4638-BC6D-A459BA2D616B}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
