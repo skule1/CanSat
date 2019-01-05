@@ -7,6 +7,7 @@
  *  altsoftserial og SoftwareSerial er 3% av minnet
  *  Men da må andre ressurser kobles ut, for gyro
  *  AltSerialport brukes itl RF (APC220) 19200 baudrate (kan gjerne settes til 9600)
+ *  (C) Skule Sørmo 2015
  *  
  **********************/
 

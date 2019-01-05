@@ -1,4 +1,8 @@
-#include <SPI.h>
+/*
+ *  (C) Skule Sørmo 24.02.2015
+ */
+ 
+ #include <SPI.h>
 #include <SD.h>
 #include <Wire.h>
 //#include <Adafruit_BMP085.h>

@@ -1,3 +1,7 @@
+/*
+ * CanSat basic Uno med SD
+ *  (C) Skule Sørmo 24.02.2015
+ */
 #include <SPI.h>
 
 #include <SD.h>
@@ -266,4 +270,3 @@ while (GPS_port.available())
 dataFile.close();
   //delay(100);  // Pause for 5 seconds.
 }
-

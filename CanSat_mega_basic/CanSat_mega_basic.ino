@@ -1,3 +1,7 @@
+/*
+ *  (C) Skule SÃ¸rmo 24.02.2015
+ */
+ 
 #include <SPI.h>
 #include <SD.h>
 #include <Wire.h>
@@ -92,7 +96,7 @@ void setup() {
   Serial.println("initialization done.");
 
   
-// generer filnavn på logg-fil. Ny fil lages for hver gang programmet starter
+// generer filnavn pï¿½ logg-fil. Ny fil lages for hver gang programmet starter
 
 int n=1;
 

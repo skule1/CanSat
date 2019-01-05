@@ -1,4 +1,8 @@
-/* UART SERIAL DEFINES */
+/*
+ *  (C) Skule Sørmo 24.02.2015
+ */
+ 
+ /* UART SERIAL DEFINES */
 #define BAUD 4800
 #define MYUBRR F_CPU/16/BAUD-1
 

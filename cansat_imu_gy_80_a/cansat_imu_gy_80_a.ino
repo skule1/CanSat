@@ -1,4 +1,6 @@
-
+/*
+ *  (C) Skule Sørmo 24.02.2015
+ */
 #include <HMC5883L.h>
 #define RF Serial
 #define GPS Serial2

@@ -1,4 +1,8 @@
-//#include <AltSoftSerial.h>
+/*
+ *  (C) Skule Sørmo 24.02.2015
+ */
+ 
+ //#include <AltSoftSerial.h>
 #include <SFE_BMP180.h>
 #include <Wire.h>
 
@@ -708,5 +712,3 @@ double getPressure()
   }
   else Serial.println("error starting temperature measurement\n");
 }
-
-
