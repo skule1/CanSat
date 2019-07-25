@@ -1,0 +1,3 @@
+# CanSat Arduino Sketches 
+
+During a time periode from 20012 til 2015 a class of Technlolgy and Ressearch at KVT (Kristen Videregående skole, Trøndlag) joing the Andøya Space Senter at Andøya, Norway. A team of students attended to a CasnSat competition where the golad was to launch a device inside an empty Coca Cola can by rocetry 2 km up in the atmosfare. On the way down the can was conneted to a paracute and recorded different enviremment parametres like height, pressure, temp and others back by telemtry to an PC operator. In this github a collection of different Arduino sketches are resumed.
